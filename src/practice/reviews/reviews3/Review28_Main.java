@@ -1,6 +1,8 @@
 package practice.reviews.reviews3;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Review28_Main {
     public static void main(String[] args) throws IOException {
