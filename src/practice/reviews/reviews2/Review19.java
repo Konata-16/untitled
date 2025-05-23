@@ -1,3 +1,5 @@
+package practice.reviews.reviews2;
+
 public class Review19 {
     public static void main(String[] args) {
         int num = 3;

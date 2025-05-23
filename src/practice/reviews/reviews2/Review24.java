@@ -1,3 +1,5 @@
+package practice.reviews.reviews2;
+
 public class Review24 {
     public static void main(String[] args) {
         int max = 9*9 ;

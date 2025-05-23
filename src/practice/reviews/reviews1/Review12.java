@@ -1,3 +1,5 @@
+package practice.reviews.reviews1;
+
 import java.io.*;
 
 public class Review12 {
