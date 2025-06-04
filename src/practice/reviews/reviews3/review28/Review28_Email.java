@@ -1,4 +1,4 @@
-package practice.reviews.reviews3;
+package practice.reviews.reviews3.review28;
 
 public class Review28_Email {
     public void send(String to, String body) {

@@ -1,4 +1,4 @@
-package practice.reviews.reviews3;
+package practice.reviews.reviews3.review29;
 
 
 public class Review29_Main {

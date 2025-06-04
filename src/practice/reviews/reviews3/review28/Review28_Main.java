@@ -1,4 +1,4 @@
-package practice.reviews.reviews3;
+package practice.reviews.reviews3.review28;
 
 import java.io.BufferedReader;
 import java.io.IOException;
