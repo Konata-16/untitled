@@ -1,7 +1,7 @@
 package practice.chpter1;
 
 
-public class Practice1 {
+public class Practice2 {
     public static void main(String[] args) {
         int a = 3;
         int b = 5;
